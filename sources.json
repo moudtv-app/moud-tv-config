@@ -1,0 +1,30 @@
+
+{
+  "version": 1,
+  "updated_at": "2026-11-12T00:00:00Z",
+  "refresh_interval": 3600,
+  "active_api": "yacine",
+  "apis": [
+    {
+      "id": "yacine",
+      "name": "Yacine Primary",
+      "categories": "https://def001.ycnapi.com/api/categories",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "id": "backup1",
+      "name": "https://def002.ycnapi.com/api/categories",
+      "categories": "",
+      "priority": 2,
+      "enabled": false
+    },
+    {
+      "id": "backup2",
+      "name": "https://def111.ycnapi.com/api/categories",
+      "categories": "",
+      "priority": 3,
+      "enabled": false
+    }
+  ]
+}
