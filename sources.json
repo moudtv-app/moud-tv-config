@@ -8,13 +8,13 @@
     {
       "id": "yacine",
       "name": "Yacine Primary",
-      "categories": "https://def001.ycnapi.com/api/categories",
+      "categories": "https://def111.ycnapi.com/api/categories",
       "priority": 1,
       "enabled": true
     },
     {
       "id": "backup1",
-      "name": "https://def002.ycnapi.com/api/categories",
+      "name": "https://def111.ycnapi.com/api/categories",
       "categories": "",
       "priority": 2,
       "enabled": false
